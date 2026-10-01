@@ -3,6 +3,10 @@
 ブレッドボードに AI を召喚して、話しかけるだけで LED を光らせます。
 Seeed XIAO ESP32S3 と OpenAI の音声モデル **GPT-Live-1** を使った、最小構成のボイスアシスタントです。
 
+[![デモ動画（X）](docs/images/demo.jpg)](https://x.com/monoradio102/status/2105485178928066602)
+
+▶ デモ動画: https://x.com/monoradio102/status/2105485178928066602
+
 ![ブレッドボードと各パーツ](docs/images/board.jpg)
 
 > 「10037 が素数だったら LED をつけてください」
