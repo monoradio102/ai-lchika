@@ -1,0 +1,6 @@
+build/
+.DS_Store
+
+# working material for the note article, not part of the project
+article/
+fritzing/
